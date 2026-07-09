@@ -6,7 +6,7 @@
 
 export const CONFIG = {
   // Paste your Apps Script Web App deployment URL here.
-  API_URL: 'https://script.google.com/macros/s/PASTE_YOUR_DEPLOYMENT_ID_HERE/exec',
+  API_URL: 'https://script.google.com/macros/s/AKfycbx2VE8EgAx_nfeNN1JaZn-Kdz-YoA1suwGe0rlbeunCyCJC1o0KI7wtr0kAzCzXLSkYnQ/exec',
 
   ACADEMY_NAME: 'Eklavyaa Academy',
 
